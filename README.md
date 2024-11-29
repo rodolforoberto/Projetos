@@ -30,5 +30,9 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 - Entrega - Possui status e código de rastreio
 
+  ## Ferramenta utilizada
+[MySQL Workbench](https://www.mysql.com/products/workbench/)
+  
+
 
 
