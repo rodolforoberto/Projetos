@@ -20,7 +20,7 @@ Pedido:
 - Um produto ou mais compõem o pedido.
 - O pedido pode ser cancelado.
 
-Objetivo:
+## Objetivo:
 
 Refine o modelo apresentado acrescentando os seguintes pontos:
 
