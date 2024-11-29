@@ -20,10 +20,9 @@ Pedido:
 - Um produto ou mais compõem o pedido.
 - O pedido pode ser cancelado.
 
-Fornecedor e Estoque
+Objetivo:
 
-
-Refinando 
+Refine o modelo apresentado acrescentando os seguintes pontos:
 
 - Cliente PJ e PF - Uma conta pode ser PJ ou PF, mas não pode ter as duas informações
 
