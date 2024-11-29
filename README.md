@@ -32,7 +32,11 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
   ## Ferramenta utilizada
 [MySQL Workbench](https://www.mysql.com/products/workbench/)
-  
+
+## Desafio E-Commerce
+
+  Inline-style: 
+![alt text](https://raw.githubusercontent.com/rodolforoberto/Projetos/refs/heads/main/Refinando%20E-commerce.png)
 
 
 
