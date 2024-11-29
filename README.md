@@ -35,8 +35,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Desafio E-Commerce
 
-  Inline-style: 
-![alt text](https://raw.githubusercontent.com/rodolforoberto/Projetos/refs/heads/main/Refinando%20E-commerce.png)
+ ![alt text](https://raw.githubusercontent.com/rodolforoberto/Projetos/refs/heads/main/Refinando%20E-commerce.png)
 
 
 
